@@ -35,7 +35,7 @@ $ yarn run start:prod
 ## See Swagger
 
 For see swagger please visit
-http://localhost:9000/api/v1/api-docs
+http://localhost:9000/api-docs
 
 ## Support
 
